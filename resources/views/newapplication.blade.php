@@ -14,7 +14,7 @@
       <div>
           <h5 class="card-title">Что перевозим: {{$da->name}}</h5>
           <p class="card-text">{{$da->cityfirst}}</p>
-          <img src="/public/img/svg/cities.png" alt="cities">
+          <img src="/img/svg/cities.png" alt="cities">
           <p class="card-text">{{$da->citysecond}}</p>
       </div>
       <hr class="hr-appl">

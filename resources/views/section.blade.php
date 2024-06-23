@@ -14,16 +14,16 @@
                     <div class="transiction-info fl fl-row">
                         <div class="transiction-text fl fd-col jc-c">
                             <div class="fl">
-                                <img src="/public/img/svg/done.svg" alt="Safety" class="done"><a
+                                <img src="/img/svg/done.svg" alt="Safety" class="done"><a
                                     class="text-trans">Безопасно</a>
                             </div>
                             <div>
-                                <img src="/public/img/svg/done.svg" alt="Safety" class="done"><a
+                                <img src="/img/svg/done.svg" alt="Safety" class="done"><a
                                     class="text-trans">Отслеживаемый
                                     процесс</a>
                             </div>
                             <div>
-                                <img src="/public/img/svg/done.svg" alt="Safety" class="done"><a class="text-trans">100%
+                                <img src="/img/svg/done.svg" alt="Safety" class="done"><a class="text-trans">100%
                                     Страховка
                                     груза</a>
                             </div>
@@ -40,7 +40,7 @@
                 </div>
             </div>
             <div class="dots fl ai-c jc-c">
-                <img src="/public/img/svg/dots.svg" alt="dots">
+                <img src="/img/svg/dots.svg" alt="dots">
             </div>
         </div>
         <!-- Block Information -->
@@ -57,7 +57,7 @@
                             Наша компания работает уже несколько лет и имеет обширную базу клиентов.
                         </a>
                     </div>
-                    <img src="/public/img/svg/PhotoAbout.svg" alt="Transit" class="transit">
+                    <img src="/img/svg/PhotoAbout.svg" alt="Transit" class="transit">
                 </div>
                 <div class="services fl jc-c">
                     <a class="uppercase text-white">Наши услуги</a>
@@ -97,13 +97,13 @@
                         <button class="form-button-text">отправить </button>
                     </form>
                 </div>
-                <img src="/public/img/svg/Application.svg" alt="application" class="appl-image">
+                <img src="/img/svg/Application.svg" alt="application" class="appl-image">
             </div>
             <div class="main-appl fl jc-c">
                 <a class="uppercase main-appl-text text-white">Наши отзывы</a>
             </div>
             <div class="rating fl fd-col">
-                <img src="/public/img/svg/Rating.svg" alt="rating" class="rating-img">
+                <img src="/img/svg/Rating.svg" alt="rating" class="rating-img">
                 <a class="rating-text text-white"> Владимир Д.Д</a>
                 <a class="text-white"> Услуги выполнены качественно, работы проведены в установленные сроки.</a>
             </div>

@@ -120,7 +120,7 @@ a {
 }
 
 .body {
-   background-image: url(/public/img/svg/mainphoto.jpg);
+   background-image: url(/img/svg/mainphoto.jpg);
    background-repeat: no-repeat;
    background-size: 135%;
 }
@@ -248,7 +248,7 @@ a {
 }
 
 .itc-slider__item:nth-child(2) {
-   background-image: url(/public/img/svg/mainphotosecond.jpg);
+   background-image: url(/img/svg/mainphotosecond.jpg);
    background-repeat: no-repeat;
    background-size: 100%;
    margin-bottom: 23px;
@@ -259,7 +259,7 @@ a {
 }
 
 .itc-slider__item:nth-child(3) {
-   background-image: url(/public/img/svg/mainphotothird.jpg);
+   background-image: url(/img/svg/mainphotothird.jpg);
    background-repeat: no-repeat;
    background-size: 100%;
    margin-bottom: 23px;
@@ -300,11 +300,11 @@ a {
 }
 
 .itc-slider__btn_prev::before {
-   background-image: url(/public/img/svg/arrow.png);
+   background-image: url(/img/svg/arrow.png);
 }
 
 .itc-slider__btn_next::before {
-   background-image: url(/public/img/svg/arrow.png);
+   background-image: url(/img/svg/arrow.png);
    transform: rotate(180deg);
 }
 
@@ -479,7 +479,7 @@ a {
 }
 
 .firtblock {
-   background: url(/public/img/svg/sectionfirst.svg);
+   background: url(/img/svg/sectionfirst.svg);
    width: 275px;
    height: 250px;
    background-repeat: no-repeat;
@@ -487,7 +487,7 @@ a {
 }
 
 .firtblock:hover {
-   background: url(/public/img/svg/sectionfirst.svg);
+   background: url(/img/svg/sectionfirst.svg);
    width: 275px;
    height: 250px;
    background-repeat: no-repeat;
@@ -498,7 +498,7 @@ a {
 }
 
 .secondblock {
-   background: url(/public/img/svg/sectionsecond.svg);
+   background: url(/img/svg/sectionsecond.svg);
    width: 275px;
    height: 250px;
    background-repeat: no-repeat;
@@ -506,7 +506,7 @@ a {
 }
 
 .secondblock:hover {
-   background: url(/public/img/svg/sectionsecond.svg);
+   background: url(/img/svg/sectionsecond.svg);
    width: 275px;
    height: 250px;
    background-repeat: no-repeat;
@@ -517,7 +517,7 @@ a {
 }
 
 .thirdblock {
-   background: url(/public/img/svg/sectionthird.svg);
+   background: url(/img/svg/sectionthird.svg);
    width: 275px;
    height: 250px;
    background-repeat: no-repeat;
@@ -525,7 +525,7 @@ a {
 }
 
 .thirdblock:hover {
-   background: url(/public/img/svg/sectionthird.svg);
+   background: url(/img/svg/sectionthird.svg);
    width: 275px;
    height: 250px;
    background-repeat: no-repeat;

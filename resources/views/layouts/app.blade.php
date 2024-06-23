@@ -15,8 +15,8 @@
         <div class="container-header">
             <div class="header fl jc-sb">
                 <div class="logotype fl ai-c fd-col">
-                    <img src="/public/img/svg/logo.svg" class="logotypesvg" alt="logotype">
-                    <a href="/public/" class="logo-text">Грузоперевозки</a>
+                    <img src="/img/svg/logo.svg" class="logotypesvg" alt="logotype">
+                    <a href="/" class="logo-text">Грузоперевозки</a>
                 </div>
                 <div class="header-hyperlinks fl jc-sb">
                     <a href="#" class="header-text">Услуги</a>
@@ -28,12 +28,12 @@
 
                 <div class="header-icons fl jc-sb">
                     <div class="header-logo-information fl fd-col ai-c">
-                        <img src="/public/img/svg/info.svg" class="icon" alt="Information">
+                        <img src="/img/svg/info.svg" class="icon" alt="Information">
                         <a class="header-text">О нас</a>
                     </div>
                     <div class="header-logo-orders fl fd-col ai-c">
-                        <img src="/public/img/svg/order.svg" class="icon" alt="Orders">
-                        <a href="/public/requ"class="header-text">Заказы</a>
+                        <img src="/img/svg/order.svg" class="icon" alt="Orders">
+                        <a href="/requ" class="header-text">Заказы</a>
                     </div>
                 </div>
             </div>
@@ -50,7 +50,7 @@
                 <div class="container-footer">
                     <div class="footer fl jc-sb">
                         <div class="logotype fl ai-c fd-col">
-                            <img src="/public/img/svg/logo.svg" class="logotypesvg" alt="logotype">
+                            <img src="/img/svg/logo.svg" class="logotypesvg" alt="logotype">
                             <a class="logo-text">Грузоперевозки</a>
                         </div>
                         <div class="header-hyperlinks fl jc-sb">
@@ -63,11 +63,11 @@
 
                         <div class="header-icons fl jc-sb">
                             <div class="header-logo-information fl fd-col ai-c">
-                                <img src="/public/img/svg/info.svg" class="icon" alt="Information">
+                                <img src="/img/svg/info.svg" class="icon" alt="Information">
                                 <a class="header-text">О нас</a>
                             </div>
                             <div class="header-logo-orders fl fd-col ai-c">
-                                <img src="/public/img/svg/order.svg" class="icon" alt="Orders">
+                                <img src="/img/svg/order.svg" class="icon" alt="Orders">
                                 <a class="header-text">Заказы</a>
                             </div>
                         </div>
