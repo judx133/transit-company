@@ -45,7 +45,7 @@
         </div>
         <!-- Block Information -->
         <div class="container">
-            <div class="block-information">
+            <div class="block-information" style="height: 900px">
                 <div class="fl">
                     <div class="information fl fd-col text-white">
                         <a class="information-text">О транспортировке груза</a>
@@ -71,17 +71,6 @@
                     </div>
                     <div class="secondblock fl jc-c">
                         <a href="#" class="section-text-second text-white">Перевозка между городами</a>
-                    </div>
-                    <div class="thirdblock fl jc-c">
-                        <a href="#" class="section-text text-white">Полировка</a>
-                    </div>
-                </div>
-                <div class="sections-2 fl gap-2 jc-c">
-                    <div class="thirdblock fl jc-c">
-                        <a href="#" class="section-text text-white">Полировка</a>
-                    </div>
-                    <div class="thirdblock fl jc-c">
-                        <a href="#" class="section-text text-white">Полировка</a>
                     </div>
                     <div class="thirdblock fl jc-c">
                         <a href="#" class="section-text text-white">Полировка</a>
