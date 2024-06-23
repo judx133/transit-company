@@ -506,7 +506,7 @@ a {
 }
 
 .secondblock:hover {
-   background: url(/img/svg/sectionsecond.svg);
+   background: url(/public/img/svg/sectionsecond.svg);
    width: 275px;
    height: 250px;
    background-repeat: no-repeat;
