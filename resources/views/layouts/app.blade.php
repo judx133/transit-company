@@ -52,7 +52,7 @@
                             <a class="logo-text">Грузоперевозки</a>
                         </div>
                         <div class="header-hyperlinks fl jc-sb">
-                            <a href="#" class="header-text">Услуги</a>
+                            <a href="#services" class="header-text">Услуги</a>
                             <a href="#" class="header-text">Цены</a>
                             <a href="#" class="header-text">Акции</a>
                             <a href="#" class="header-text">Личный кабинет</a>

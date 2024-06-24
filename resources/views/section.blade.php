@@ -59,9 +59,9 @@
                     </div>
                     <img src="/img/svg/PhotoAbout.svg" alt="Transit" class="transit">
                 </div>
-                <div class="services fl jc-c">
+                <section id="services" class="services fl jc-c">
                     <a class="uppercase text-white">Наши услуги</a>
-                </div>
+                </section>
                 <div class="fl jc-c">
                     <hr class="hr-section">
                 </div>
