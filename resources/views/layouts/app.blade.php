@@ -10,7 +10,7 @@
     <!-- Scripts -->
     @vite(['resources/sass/app.scss', 'resources/js/app.js'])
 </head>
-<body class="body">
+<body class="body" style="zoom: 75%">
 <div id="app">
     <div class="container-header">
         <div class="header fl jc-sb">
