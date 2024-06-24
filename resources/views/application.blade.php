@@ -18,11 +18,10 @@
                 <img src="/img/svg/logo.svg" class="logotypesvg" alt="logotype">
                 <a class="logo-text">Грузоперевозки</a>
             </div>
-            <div class="header-hyperlinks fl jc-sb">
-                <a href="#" class="header-text">Услуги</a>
+            <div class="header-hyperlinks fl">
+                <a href="#services" class="header-text">Услуги</a>
                 <a href="#" class="header-text">Цены</a>
             </div>
-
 
             <div class="header-icons fl jc-sb">
                 <div class="header-logo-information fl fd-col ai-c">

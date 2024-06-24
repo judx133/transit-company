@@ -16,7 +16,7 @@ return new class extends Migration
         Schema::create('applications', function (Blueprint $table) {
             $table->id();
             $table->string('name');
-            $table->integer('number');
+            $table->bigInteger('number');
             $table->string('email');
             $table->string('cityfirst');
             $table->string('citysecond');

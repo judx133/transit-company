@@ -32,15 +32,7 @@
                             </div>
                         </div>
                     </div>
-                    <div>
-                        <a href="#" class="button-text">Подробнее</a>
-                    </div>
-                    <button class="itc-slider__btn itc-slider__btn_prev"></button>
-                    <button class="itc-slider__btn itc-slider__btn_next"></button>
                 </div>
-            </div>
-            <div class="dots fl ai-c jc-c">
-                <img src="/img/svg/dots.svg" alt="dots">
             </div>
         </div>
         <!-- Block Information -->
@@ -67,13 +59,13 @@
                 </div>
                 <div class="sections fl gap-2 jc-c">
                     <div class="firtblock fl jc-c">
-                        <a href="#" class="section-text text-white">Первозка по городу</a>
+                        <a href="#application" class="section-text text-white">Перевозка по городу</a>
                     </div>
                     <div class="secondblock fl jc-c">
-                        <a href="#" class="section-text-second text-white">Перевозка между городами</a>
+                        <a href="#application" class="section-text-second text-white">Перевозка между городами</a>
                     </div>
                     <div class="thirdblock fl jc-c">
-                        <a href="#" class="section-text text-white">Полировка</a>
+                        <a href="#application" class="section-text text-white">Полировка</a>
                     </div>
                 </div>
             </div>
@@ -83,7 +75,7 @@
         <div class="main-appl fl jc-c">
             <a class="body-appl-text">Оставить заявку</a>
         </div>
-        <div class="block-application">
+        <section id="application" class="block-application">
             <div class="fl jc-sb">
                 <div class="application jc-sb">
                     <hr class="form-application">
@@ -94,7 +86,7 @@
                         <input name="email" type="text" placeholder="Почта*" class="form">
                         <input name="cityfirst" type="text" placeholder="Город отправления*" class="form">
                         <input name="citysecond" type="text" placeholder="Город прибытия*" class="form">
-                        <button class="form-button-text">отправить </button>
+                        <button class="form-button-text">отправить</button>
                     </form>
                 </div>
                 <img src="/img/svg/Application.svg" alt="application" class="appl-image">
@@ -107,6 +99,6 @@
                 <a class="rating-text text-white"> Владимир Д.Д</a>
                 <a class="text-white"> Услуги выполнены качественно, работы проведены в установленные сроки.</a>
             </div>
-        </div>
+        </section>
     </div>
 @endsection
